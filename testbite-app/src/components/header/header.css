@@ -1,0 +1,23 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4vh 10vw;
+  background-color: aliceblue;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+header div ul {
+  display: flex;
+  list-style: none;
+  gap: 2vw;
+}
+.search-image {
+  display: flex;
+  gap: 2vw;
+  font-size: 28px;
+}
